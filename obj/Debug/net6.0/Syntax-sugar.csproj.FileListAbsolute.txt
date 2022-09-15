@@ -1,0 +1,15 @@
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\Syntax-sugar.csproj.AssemblyReference.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\Syntax-sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\Syntax-sugar.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\Syntax-sugar.AssemblyInfo.cs
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\Syntax-sugar.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\bin\Debug\net6.0\Syntax-sugar.exe
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\bin\Debug\net6.0\Syntax-sugar.deps.json
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\bin\Debug\net6.0\Syntax-sugar.runtimeconfig.json
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\bin\Debug\net6.0\Syntax-sugar.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\bin\Debug\net6.0\Syntax-sugar.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\Syntax-sugar.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\refint\Syntax-sugar.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\Syntax-sugar.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\Syntax-sugar.genruntimeconfig.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Syntax-sugar\Syntax-sugar\obj\Debug\net6.0\ref\Syntax-sugar.dll
